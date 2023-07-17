@@ -10,4 +10,4 @@ This code is a ameliored version of deployed code. This is optmized, do less req
 
 ## Link for test app directly
 
-**[Click here][https://spendsmanageapp.webhostapp.com]**
+**(Click here)[https://spendsmanageapp.webhostapp.com]**
